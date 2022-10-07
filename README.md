@@ -1,0 +1,2 @@
+# online-forum-
+This is an dynamic Online forum built using HTML,CSS,MYSQL and PHP. Xampp server is used . This forum consists of signup(where user has to create an account to access the forum), signin(user to has to signin to access the form),  contact page(where user can communicate with forum administrator ),  dynamically created categories  (which provides information and interactive portal for various technology fields) and comment section where user can interact with other users
